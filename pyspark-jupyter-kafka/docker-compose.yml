@@ -1,4 +1,4 @@
-version: '2'
+#version: '2' (this part of the code is deprecated since a month, directly begin the code with services)
 services:
   ed-pyspark-jupyter:
     image: jupyter/pyspark-notebook:spark-3.3.0
